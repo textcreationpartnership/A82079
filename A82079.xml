@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from his Excellencie Sir Thomas Fairfax, and the general councel of the Armie, held at Putney, Septemb. 9th. 1647.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82079</idno><idno type="EEBO-CITATION">99865350</idno>
+  <idno type="VID">117590</idno>
+  <idno type="EEBO-PROQUEST">2240919993</idno>
+  
+            <idno type="STC">Wing D581B</idno>
+            <idno type="STC">Thomason E518_30</idno>
+            <idno type="STC">ESTC R206175</idno>
+            <idno type="PROQUEST">99865350</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865350e"/>
+            <note>(EEBO-TCP ; phase 2, no. A82079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117590)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 81:E518[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from his Excellencie Sir Thomas Fairfax, and the general councel of the Armie, held at Putney, Septemb. 9th. 1647.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Pounsee, at the signe of the Hand and Bible, at the lower end of Budge row, neer Dowgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674 [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Stbr 13.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="declaration">
+                  <pb facs="tcp:117590:1"/>
+                  <head>A DECLARATION From his Excellencie Sir THOMAS FAIRFAX, and the general Councel of the Ar<g ref="char:EOLhyphen"/>mie, held at Putney, Septemb. 9th. 1647.</head>
+                  <p>
+                     <seg rend="decorInit">W</seg>Hereas a Member of the General Coun<g ref="char:EOLhyphen"/>cel of this Army, hath publickly declared and expressed himself, that there is now no visible Authority in this Kingdom, but the power and force of the Sword: We therefore the said General Councel, to restifie how far our hearts and min des are from any designe of setting up the power of the Sword, above or against the fundamental Au<g ref="char:EOLhyphen"/>thority and Government of the Kingdom, and our readiness to maintain and uphold the same Authority, have by a free Vote in the said Councel, no way contradicting, adjudged the same member to be expelled the Councel, which we hereby thought fit to publish, as a cleer manifestation of our dislike, and disa<g ref="char:EOLhyphen"/>vowing such principles or purposes.</p>
+                  <closer>
+                     <signed>By the appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and the general Coun<g ref="char:EOLhyphen"/>cel of the Army. Signed JOHN RUSHWORTH.</signed>
+                  </closer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London,</hi> Printed for <hi>John Pounset,</hi> at the signe of the Hand and Bible, at the lower end of Budge row, neer Dowgate. <hi>1674:</hi>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="title_page">
+                  <pb facs="tcp:117590:2"/>
+                  <pb n="1725" facs="tcp:117590:2"/>
+                  <p>A Perfect Diurnall OF SOME PASSAGES IN PARLIAMENT And daily proceedings of the Army under his Excellency Sir <hi>THOMAS FAIRFAX.</hi>
+                  </p>
+                  <p>From Munday the 6 of <hi>Sept.,</hi> till Mund. the 13 of <hi>Septemb.</hi> 1647.</p>
+                  <p>Collected for the satisfaction of such as desire to be truly informed.</p>
+                  <p>Printed for <hi>Francis Coles,</hi> and <hi>Laurence Blaikelock,</hi> and are to be sold at their Shops in the <hi>Old-Baily,</hi> and at <hi>Temple-Barr.</hi>
+                  </p>
+               </div>
+               <div type="proceedings">
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>Beginning Munday Sept. 6.</hi>
+                           </date>
+                        </dateline>
+                     </opener>
+                     <p>
+                        <seg rend="decorInit">T</seg>His Day Mr. Glyn Recorder of London attended the House of Commons according to the Order on Satterday last to answer the charge against him But the House being then ve<g ref="char:EOLhyphen"/>ry intentive about the busines of sending the propositions to the King, Mr Recorder was put off till the next day.</p>
+                     <p>The debate about, dispatch of the Propositions took up some time, and the Non-concurrence of the Scotch Commissioners some obstruction to the same but it was or<g ref="char:EOLhyphen"/>dered that the Committee of both Kingdomes should this afternoone desire the Scotch Commissioners positive An<g ref="char:EOLhyphen"/>swer for that the Houses doe adheare to their former resolutions of sending the Propo<g ref="char:EOLhyphen"/>sitions to his Majesty to morrow.</p>
+                     <p>A Report was made to the House and complaint against a dangerous Pamphlet lately printed of one Mr. <hi>Iohn Biddles</hi> his 12. Arguments upon the Diety, said to be no lesse then Blasphemy denying the third Person, to be God upon debate of this busines It was Ordered the said Pamphlet should be called in, &amp; to be burnt by the hang-man &amp; that the said Mr. <hi>Biddle</hi> should be referred to the examination of the Committee for plundered M<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>sters.</p>
+                     <p>Petition was presented to the Commons from Coli Sanderson on the behalfe of
+<pb n="1726" facs="tcp:117590:3"/>Capt. Macquire condemned to dy at the Sessions in the Old Baily about the Murther and Ryot at Guild Hall, the Petition was read and some debate, but no Order made up<g ref="char:EOLhyphen"/>on it.</p>
+                     <p>Petitions on his behalfe were likewise presented to the Generall Sir <hi>Thomas Fairfax,</hi> his Excelency left it to the pleasure of the houses being no wayes concerned in the bu<g ref="char:EOLhyphen"/>sinesse.</p>
+                     <p>Much stirring there was in the City on his behalfe, and in fine the Execution (which should have beene this day) was put off, and he likely to gaine the benefit of a Repreive.</p>
+                     <p>An Ordinance this day passed both Houses against Clipped Silver, the businesse so ge<g ref="char:EOLhyphen"/>nerally concerning the whole Kingdome we will give you the Ordinance.</p>
+                     <q>
+                        <floatingText xml:lang="eng">
+                           <body>
+                              <div type="ordinance">
+                                 <p>
+                                    <hi>FOr as much as during these distractions great sums of mony clipped and unlawfully diminished, hane been desperced and given out amongst the people thorowout the Kingdome: for the speede suppression thereof and prevention of the like in the future. Be it ordained by the Lords &amp; Commons in Parl assembled, that from henceforth no mony diminished by clipping or filing shall be currant or payable in this Kingdome, or be offered in payment by any person whatsoever, but to be esteemed as Bullion, and no otherwise, and to the end that such moneys as are by this present Ordieance de<g ref="char:EOLhyphen"/>clared to be uncurrent, may not for the present become unusefull unto such as live in remote parts of the Kingdome and cannot sel them but at under rates. Be it Ordained, That for three Moneths after the date hereof, the said clipt Money shall be allowed of in payment, at foure shillings</hi> 10. d. per <hi>Ounce for Coldsmiths weighe which is Troy weight, or</hi> 4. s. 4. d. <hi>halfe-peny the ounce avordupoyz, which is the common weight. And all persons may hereby take notice, that such clipped Money will yeeld in</hi> London 4 s. <hi>and</hi> 11. d. per <hi>ounce for Goldsmiths weight, and</hi> 4. s. 5. d. <hi>halfepeny</hi> per <hi>ounce for avordupoyz weight at the least. Provided neverthelesse that it is not hereby inten<g ref="char:EOLhyphen"/>ded that any old moneys, which are apparent not to be clipt, or otherwise unlawfully dimi<g ref="char:EOLhyphen"/>nished, but onely growne light through wearing and wasting, by long passing from hand to hand shall be included within this Order, but shall still be <gap reason="illegible: blotted" extent="1+ letters">
+                                          <desc>•…</desc>
+                                       </gap>nt without disput<gap reason="illegible: blotted" extent="1+ letters">
+                                          <desc>•…</desc>
+                                       </gap>s formerly.</hi>
+                                 </p>
+                                 <closer>
+                                    <signed>Jo. Br<gap reason="illegible: blotted" extent="1 letter">
+                                          <desc>•</desc>
+                                       </gap>wn Cler, Parl D. com.</signed>
+                                 </closer>
+                              </div>
+                           </body>
+                        </floatingText>
+                     </q>
+                     <p>An Ordinance for making Col. <hi>Hamond</hi> Governour of the Isle of Wight was againe read and passed the Commons.</p>
+                     <p>Letters likewise were presented to the house comming from the Lord Inchiquin, de<g ref="char:EOLhyphen"/>siring monyes, &amp;c. These with some other letters concerning the same businesse were referred to the Committee of both Kingdomes.</p>
+                     <p>The letters from Ireland give to understand that the Officers and Souldiers with the Lord Inchiquin have been upon, dangerous designes lately, and in particular upon a Re<g ref="char:EOLhyphen"/>monstrance or Declaration resenting the proceedings of Parliament and Army in Eng<g ref="char:EOLhyphen"/>land, the pretence being want of pay, discharge from service and the like, yet that it might not be thought they intended to countenance or accommodate the Rebells, Its declared that they resolve to goe on against them vigorously, but withall declare that they will not admit of any alteration in government Mat<gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>iall, till their Arrears be paid them both whats due in England and Ireland <hi>&amp;c.</hi>
+                     </p>
+                     <p>The Commons passed a Declaration for disableing all delinquents that have borne arms against the Parliament to be any publique officers in the Kingdome and the Lords concurrence desired.</p>
+                     <pb n="1727" facs="tcp:117590:3"/>
+                     <p> From Newcastle Sept. the second tis certified that the Generall assembly have not yet published their declaration in Scotland. The committee of Estates in expectation of the Messenger who was sent to London, and to the Generall for passes for the Lords, the Messenger passed here this night with passes for them.</p>
+                     <p>Six or 8000 of the Scot<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>sh forces it is certified are drawing southwards and in<g ref="char:EOLhyphen"/>tend to Quarter on the confines of Scotland, but it is [they say] onely for bet<g ref="char:EOLhyphen"/>ter accommodation and benifit of fresh Quarter.</p>
+                  </div>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>Tuesday September</hi> 7.</date>
+                        </dateline>
+                     </opener>
+                     <p>REport was this day made to the House of the concurrence of the Scotch Commissioners to the Propositions for Peace, whereupon a Letter was agreed upon to the Commissioners with the King, and Instructions from the Houses to present the Propositions to his Majesty and to receive his an<g ref="char:EOLhyphen"/>swer within six dayes To which Letter and instructions both houses concur<g ref="char:EOLhyphen"/>ring the said propositions were sent away this afternoone to his Majesty at Hampton-Covrt the Commissioners who are to present the same are these as following The Eark of Pembrook, the Lord Montague, Sir Iames Har<g ref="char:EOLhyphen"/>rington, sir Iohn Cook, sir Iohn Holland, Major Generall Brown, (commi<g ref="char:EOLhyphen"/>ssioners from both Houses of the Parliament of England and the Earl of Loutherdale and sir Charles Erskin and two other commissioners from the Kingdome of Scotland.</p>
+                     <p>A Letter this day passed both houses to be sent to the Estates of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> for the reca<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ling of the Scottish Forces out of Vlster in Ireland ac<g ref="char:EOLhyphen"/>cording to the first agreement and treaty for Ireland there being in fur<g ref="char:EOLhyphen"/>th<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r need to continue those forces in that Kingdome, the Houses resol<g ref="char:EOLhyphen"/>ving to prosecure that war in Ireland with the forces of this Kingdome only.</p>
+                     <p>Master Rowe a Gentleman that hath deserved well of this Kingdom for his former service was appointed to goe with the Letter into Scotland.</p>
+                     <p>An Order was brought downe by Message to the Commons of directi<g ref="char:EOLhyphen"/>ons to the M<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>litia of London about slighting the Workes and Lines of Communication.</p>
+                     <p>Vpon the petition of Colonell Baynes prisoner in Woodstreet Counter that the said prison was infected with the plague, it was ordered that he should be removed to Peter House.</p>
+                     <p>The House of Peeres had before them the Ordinance in behalf of the Of<g ref="char:EOLhyphen"/>ficers of the Court of Wards and committed the same.</p>
+                     <p>Mr. <hi>Glyn</hi> the Recorder this day againe attended the Commons and the House then proceeded upon the Informations and proofes against him. which were read and in summe were, That he had been very active in the actions in London for a new war. Countenanced the cities last declaration
+<pb n="1728" facs="tcp:117590:4"/>Encouraged the Ryotus petitioners, had been very active with the Com<g ref="char:EOLhyphen"/>mittee of safety and new Committee of the Militia of London &amp;c.</p>
+                     <p>And Mr. Glynn being called into the house had the particulars of his Charge laid open to him, to which he made a large defence in a very well composed, and advised speech to the house, and afterwards with drawing the House debated the matter very consideratly, and in fine the Question being put, the house was devided, but it was carried in the affirmative, That Mr, Glynn Recorder of London should be discharged from being any lon<g ref="char:EOLhyphen"/>ger a Member of the Commons house.</p>
+                     <p>And that further he should be committed to the tower there to remaine du<g ref="char:EOLhyphen"/>ring pleasure of the house.</p>
+                     <p>And much time being spent about this busines, it was ordered that he should be brought before the house to receive his sentence to morrow morning.</p>
+                     <p>The Commons then proceeded to the case of Sir Iohn Maynard appoin<g ref="char:EOLhyphen"/>ted also to attend this day, &amp; upon hearing of the charge against him with proofe upon oath, that he had with great zeale and activity endeavoured the raising of a new Warr, and in prosecution thereof had subscribed Warrants for the raising of Horse within the City, &amp;c.</p>
+                     <p>Sir Iohn was called into the house; had liberty to speak what he could in his defence, and afterwards withdrawing, It was voted, that he should be discharged from being any longer a Member of that house, that he should be committed prisoner to the tower, and that an impeachment of high trea<g ref="char:EOLhyphen"/>son should be drawne up against him.</p>
+                     <p>The Commons ordered that Lieutenant Col. Lilburnes case prison the Tower should be reported to morrow.</p>
+                     <p>Ordered further that the Report concerning the prisoners in the Tower be made.</p>
+                     <p>This day at a common councell in London a letter was read and debated from his Dxcellency Sir Tho, Fairfax which they received the night before with direction to the Lord mayor, aldermen and common councell, and it was as followeth.</p>
+                     <floatingText type="letter" xml:lang="eng">
+                        <body>
+                           <opener>
+                              <salute>My Lord and Gentlemen.</salute>
+                           </opener>
+                           <p>
+                              <hi>BEing informed that the City of London is in Arredre to the Army a very greate summe. and understanding that care is taken by the Committee of Parliament for the army to provide money seasonably for the payment thereof, by sending to you to ad<g ref="char:EOLhyphen"/>vance Fifty thousand pounds upon the security of what is due from you which is a far greater summe then is desired to be presently advanced by you although we can not con<g ref="char:EOLhyphen"/>ceive that there will be any backwardnesse in you to answer this desire which is so rea<g ref="char:EOLhyphen"/>sonable, and of such necessity to the satisfaction and well ordering of the Army, Yet we thought good to write unto you about it, that so you may understand so much from us, with this, that Delay Will be equall to a deny all and cause us to think that little re<g ref="char:EOLunhyphen"/>gard
+<pb n="1729" facs="tcp:117590:4"/>is had of us, or the endeavours now in hand tending to the Settlement of the peace of the Kingdome, which is so much desired and hoped for by us and all honest men, and to the obtaining of which timely supplyes of money and especially the present payment of the summe above-named will very much induce.</hi>
+                           </p>
+                           <closer>
+                              <signed>By the appointment of his Excellency Sir <hi>Tho. Fairfax</hi> and councell of War signed, <hi>Io. Rushworth.</hi>
+                              </signed>
+                              <dateline>
+                                 <hi>Putney</hi>
+                                 <date>
+                                    <hi>Sept.</hi> 7. 1647.</date>
+                              </dateline>
+                           </closer>
+                           <postscript>
+                              <p>POSTSCRIPT, We understand it's neere a fortnight since the Com<g ref="char:EOLhyphen"/>mittee applyed themselves to you in this businesse, and that yet nothing is done, we desire there may be a present performance, the condition of the army not admitting any longer delay:</p>
+                           </postscript>
+                        </body>
+                     </floatingText>
+                  </div>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>VVednesday September</hi> 8.</date>
+                        </dateline>
+                     </opener>
+                     <p>THe Commons this day further proceeded in the Report from the com<g ref="char:EOLhyphen"/>mittee how farr any Members of Parliament had been active in the late design of a new War, and Tumults in London, and they had before them the cases of severall Lords Members of the House of Peeres and upon de<g ref="char:EOLhyphen"/>debate of the informations and proofes against them, The Commons voted an Impeachment of high treason against them vizt. against <hi>Iames Earle of Suffolk, Francis Lord Willioughby of Parham, Iohn Lord Hunsden, William Lord Maynard, Theobald Earle of Lincoln George Lord Berkley and Iames Earl of Mid<g ref="char:EOLhyphen"/>dlesex</hi> for levying of Warre against the King, Parliament, and Kingdom.</p>
+                     <p>And the commons sent a Message to the House of peers to Impeach the said Lords of High Treason at the Bar of that house &amp; to desire their Lord<g ref="char:EOLhyphen"/>ships that they may be sequestered from the service of the house &amp; commit<g ref="char:EOLhyphen"/>ted to custody, and that the commons would be ready when their Lord<g ref="char:EOLhyphen"/>ships should please to bring a particuler Charge against them which was don accordingly.</p>
+                     <p>Their Lordshipps taking into debate the said charge appointed to meet in full House about the same to morrow, and that the said Impeached Lords should have notice to attend, which was also done accordingly.</p>
+                     <p>The case of another Peere should have been reported but upon some con<g ref="char:EOLhyphen"/>sideration was put off for a weeks times. Sir Iohn Maynard was carried prisoner to the Tower according to the Order yesterday, and Mr. Recorder received his sentance in the Commons house but it was ordered that his committment to the Tower should be dispensed withall for a week that he may have time to sore and deliver up his papers and writings in relation to his place of Recorder of London, or to his clyents at Law, and to remain in custody.</p>
+                     <p>The Commmons had then further debate and ordered that the case of Commissary Copely a Member of the House should be reported to morrow and hee Ordered to attend the House?</p>
+                     <pb n="1730" facs="tcp:117590:5"/>
+                     <p> It was also Ordered that the case of Sir Robert Harlow Mr. Edward Ste<g ref="char:EOLhyphen"/>phens and Mr. Guen Members of the House should be reported to the House on Tuesday next and they ordered to attend the House at that time.</p>
+                     <p>The Lords sent a Message to the Commons about the Ordinance for ta<g ref="char:EOLhyphen"/>king of the sequestration of the Duke of Buckingham.</p>
+                     <p>Also Recomending a petition of the Lady Grays to the Commons.</p>
+                     <p>One of the Kings land water place of the custome house being void, great striving was for obtaining the same and it was by Order of the House this day bestowed upon one of note and desert in the City.</p>
+                     <p>This day Master Biddles Booke against the Diety of the 3 person in tre<g ref="char:EOLhyphen"/>nity was burned according to the Order of parliament. Master Lilburns case by reason of the former businesses was put of til an other day.</p>
+                     <p>From Hampton court it is certified that the commissioners delivered the propositions for peace to his Majesty the last night there happened little in Exchange betwixt his Majesty and the commissionours at the de<g ref="char:EOLhyphen"/>liv<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ry only his Majesty tould them he would returne answer with all con<g ref="char:EOLhyphen"/>veniency.</p>
+                     <p>Letters from Ireland give further to understand that the proceedings upon the declaration or remonstrance by the Lord inchiq<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>es offi<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>es is in a good way stopped, and likely to proceede no further but the Soul, dies cry out much for monies.</p>
+                     <p>From Dublin they writ that the partie sent out by Colonell Iones in<g ref="char:EOLhyphen"/>to the Co<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nty of Wickley are returned with a prize of 7 or 8000 Cowes and have burnt downe greatest part of the Towne of Wickloe In this ex<g ref="char:EOLhyphen"/>pedition they met with noe Enimy, that party of prestons that escaped in the last fight never rallying nor its likely will not get to any considerable Head until the next Spring.</p>
+                  </div>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>Thursday Septemb</hi> 9.</date>
+                        </dateline>
+                     </opener>
+                     <p>THis day the Commons passed an Ordinance to which also the Lords concurred for constituting a Committee of Militia for the City of Westminster and the other out parishes not within the Walls of London, Savoy parish, Clements Danes, Giles in the Fields, <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>drewes Holborne, Se<g ref="char:EOLhyphen"/>pulchers, Iames Clerkenwed, Mary Iflington, and Giles Creplegate in the county of Middlesex, with power to the commit<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ee to arme, Trayne, and D<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>scipline all persons fit for service, and to appoint colonells, captaines and other Officers, and in all points having a full power as the committee for the Militia of London; which Ordinance is to continue during the pleasure of the houses, the names of the committe for this Militia are as followeth, viz Sir <hi>Gregory Norton</hi> Kt. <hi>Humphrey Edward, Io Trenchard, Cornelius Holland</hi>
+                        <pb n="1731" facs="tcp:117590:5"/>and <hi>Iohn Browne</hi> Clerk of the Parliament, <hi>William Ball, Richard Keble, George Manley, Iosias Berners, Richard Graves, Nicholas Martin, Iohn Hall, Iohn Heyl<gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>, and Edward Denby Iunior, Esquires William Parker Dr. in Physick, Iames Prince, Silvanus Taylor, Georg Crompton, Iohn Ro<gap reason="illegible: faint" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>son, Noah Banks, Peter Lindsey, Richard Big, Ralph Farmer, Nicholas Bond; Arthar Squib, Iohn Honnor, Richard Bates, Sa<g ref="char:EOLhyphen"/>muel Smith, Iohn Clendon, Francis Blake, Ralph Grey, Iohn Frampton, Edward Neal William Stone, and Wether Frost,</hi> or any seaven or more of them.</p>
+                     <p>An other Ordinance likewise passed for constituting the like committee with the same power as the former for the Borrough of Southwark.</p>
+                     <p>And an other Ordinance for the Tower Hamblets, and that the Trained Bands and auxiliaries of the Tower be under the immediate command of the constable of of the Tower as they were before under the command of the Militia.</p>
+                     <p>An Ordinance likewise passed the houses for enabling the Militia of Lon<g ref="char:EOLhyphen"/>don, Westminster, &amp;c to pull downe the courts of Guard and Lines of communication and to make sale of the Timber for defraying necessary charges for pulling downe of the same.</p>
+                     <p>Likewise a further order past for inviting the Inhabitants of London and Westminster to send their Servants to help to pull downe the Forts and Line about the city, and to desire them to begin this worke munday mor<g ref="char:EOLhyphen"/>ning next.</p>
+                     <p>There was a Petition this day presented to the Commons and read from the common councell of London, and it was by way of answer to the de<g ref="char:EOLhyphen"/>sire of both houses for the borrowing the summe of 50000 l. of the city for the supply of the army, giving reasons wherefore they could not at this time advance the said summe as desired having likewise the day before re<g ref="char:EOLhyphen"/>turned the like answer to the Generalls Letter.</p>
+                     <p>The house debated the businesse, but considering how great the necessities of the army is, at present for want of monyes, Ordered that the city should be further desired to advance that summe by Saterday come sev<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>night, the necessities of the army nor admitting any longer delay.</p>
+                     <p>The Lords sent a Message to the recommending the condition of the Earle of Port<g ref="char:EOLhyphen"/>land.</p>
+                     <p>There Lordships also concurred with the Commons in the Ordinance for continuing the Major of Worcester in his place so some rime longer.</p>
+                     <p>The busines of Commisary Copely was reported to the House, and took up much time in debate the proofes were of his Joyning with the Committee for raising of forces for a new Warre and his complyance with the proceedings of the Members in the Speakers absence and at last It was put to the vote and voted that he should be discharged the ser<g ref="char:EOLhyphen"/>vice of the House and committed to the Tower during pleasure</p>
+                     <p>The house had also debate concerning Captaine Musgrave taken into custody the day befor as a great stickler in the late busines of the City, and it was ordered he should be sent prisonour to Newgate.</p>
+                     <pb n="1732" facs="tcp:117590:6"/>
+                     <p> The house of Peers this day (as was ordered) debated the businesse and impeachment of their Members in a full house, and it was voted and Ordered that the Gentleman Vsher of their house, seize, and bring before their Lordships, the said Earle of <hi>Lincolne,</hi> Earle of <hi>Suffolk,</hi> and Earl of <hi>Middlesex:</hi> The Lord <hi>Hunsdon,</hi> Lord <hi>Willoughby of Par<g ref="char:EOLhyphen"/>ham</hi> Lord <hi>Bartlet,</hi> and Lord <hi>Maynard,</hi> to answer the Impeachment of high Treason brought up against them by the House of Commons.</p>
+                  </div>
+                  <div type="day">
+                     <opener>
+                        <dateline>
+                           <date>
+                              <hi>Friday Sep.</hi> 10. <hi>and Saterday Sep</hi> 11.</date>
+                        </dateline>
+                     </opener>
+                     <p>THis day was published an Declaration passed Both houses yesterday that none shall be elected into any Office whatsoever, that hath been in the Kings Army ayding or assisting the enimy against the parliament, within the Kingdom of England, domi<g ref="char:EOLhyphen"/>nion of Wales, and Towne of Barwick. The declaration is as followeth.</p>
+                     <q>
+                        <floatingText xml:lang="eng">
+                           <body>
+                              <div type="declaration">
+                                 <p>
+                                    <hi>BE it Declared, Ordered and ordained by the Lords and Commons in Parliament as<g ref="char:EOLhyphen"/>sembled, That no Person whatsoever, that hath been in Armes against the Parlia<g ref="char:EOLhyphen"/>ment, or hath been aiding or assisting the Forces of the Enemy, or hath been, or is sequest<g ref="char:EOLhyphen"/>red, shall be elected, or constituted Mayor, Alderman, Bailiffe, Sheriffe, Iustice of Peace Steward of any Court, Constable, or any other Officer in any County, City, Borough, or Towne corporate, within the Kingdome of</hi> England, <hi>Dominion of</hi> Wales, <hi>and Towne of</hi> Berwick; <hi>And in case any such Persons as aforesaid he elected into any of the Offices a<g ref="char:EOLhyphen"/>foresaid, in any of the aforesaid places: the Lords and Commons doe declare all such elections to be void and null, Provided that this shall not extend to any person or per<g ref="char:EOLhyphen"/>sons who have been, or shall be unduely sequestered as delinquents, and have been or shall be therefore discharged of the said undue Sequestration, by both houses of Parliament or by the Lords and Commons for Sequestration.</hi>
+                                 </p>
+                              </div>
+                           </body>
+                        </floatingText>
+                     </q>
+                     <p>From Scotland it is further confirmed by letters That David Lesley with the Scots ar<g ref="char:EOLhyphen"/>my which are come over Spey, are most of them appointed to quarter on the parts of Scotland, bordering upon England: The Lord Chancelour, and Lord Lanrick, are ready to come for England and have received their instructions, they are to presse for monyes and assistance for securing Scotland, and for uniformity in Religion acording to the co<g ref="char:EOLhyphen"/>venant. They bring also a Declaration with them from the Estates, wherein many things are in relation to the Covenant, and the Treaty.</p>
+                     <p>Satterday produced little, the Houses not sitting they having adjourned untill tuesday next.</p>
+                     <p>From Putney the Head-quarters of the Army we understand that the councell of war and Commissioners of Parliament sit daily about disband<gap reason="illegible: blotted" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>, putting into Garrisons, dis<g ref="char:EOLhyphen"/>posing of the Horse, and the busines of Ireland, which would be sone perfected if mo<g ref="char:EOLhyphen"/>neys, could be raised; But that no moneyes for pay of the Army should be sent them in all this time much discontents the Souldery.</p>
+                     <p>From our Commissioners who presented the Propositions to the King at Hampton Court came letters which tell that his Majesty is preparing an Answer to send to the Houses, and hath already in effect declared his sence of the Propositions, That to seve<g ref="char:EOLhyphen"/>rall of the Propositions he is willing to assent, settle Presbitry in this Kingdome for three yeares, The M<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>litia as he before offered, &amp;c. But others he is no wayes satisfied in or can assent unto, but desires to put him selfe upon the Proposalls of the Army, and that they may be taken into consideration by the Houses.</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
